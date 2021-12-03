@@ -1,3 +1,4 @@
 hey! I am learning git.
 After using git commit --amend -m "message", able undo the last commit.laer we can make changes to the file using vi filename.
 pushing the file to remo repo again.
+adding the content to the file from remo repository.
